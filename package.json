@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "request": "2.87.0",
-    "url-parse": "1.4.2"
+    "url-parse": "1.4.3"
   }
 }
