@@ -11,6 +11,12 @@
     "request": "2.87.0",
     "url-parse": "1.4.2",
     "extend": "3.0.1",
-    "typeorm": "0.2.7"
-  }
+    "typeorm": "0.2.7",
+    "snyk": "^1.134.2"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
