@@ -11,6 +11,6 @@
     "request": "2.87.0",
     "url-parse": "1.4.2",
     "extend": "3.0.1",
-    "typeorm": "0.2.7"
+    "typeorm": "0.2.39"
   }
 }
