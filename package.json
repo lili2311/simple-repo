@@ -8,9 +8,9 @@
     "url": "https://github.com/Snyk/shallow-goof"
   },
   "dependencies": {
-    "request": "2.87.0",
-    "url-parse": "1.4.2",
-    "extend": "3.0.1",
-    "typeorm": "0.2.7"
+    "request": "2.88.2",
+    "url-parse": "1.5.9",
+    "extend": "3.0.2",
+    "typeorm": "0.3.21"
   }
 }
